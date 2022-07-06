@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Communication Engineering, Shandong University of Science and Technology, 2019
+* B.E. (Hons) in Communication Engineering, University of Tasmania, 2019
+* M.S. in Machine Learning, University of Adelaide, 2021
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Bachelor Honours Research Project - Application of Computer Learning to an Automated Mahjong Player
+  * University of Tasmania
+  * Supervisor: Dr. Benjamin Millar
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Master Research Project - Transformer Based MIDI Music Generation
+  * University of Adelaide
+  * Supervisor: Dr. Lingqiao Liu
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Pytorch
+* MATLAB & Simulink
+* Java
+* Linux
+
+Ohter experience
+======
+* Fall 2018: KNE434 Computer and Data Networks - Tutor
+ * University of Tasmania
+
+
+<!---
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -48,12 +60,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ --->
