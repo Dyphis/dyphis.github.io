@@ -13,32 +13,34 @@ Education
 ======
 * B.E. in Communication Engineering, Shandong University of Science and Technology, 2019
 * B.E. (Hons) in Communication Engineering, University of Tasmania, 2019
-* M.S. in Machine Learning, University of Adelaide, 2021
+* MSc in Machine Learning, University of Adelaide, 2021
 
 
 Research experience
 ======
-* Bachelor Honours Research Project - Application of Computer Learning to an Automated Mahjong Player
+* Bachelor Honours Research Project: Application of Computer Learning to an Automated Mahjong Player
   * University of Tasmania
   * Supervisor: Dr. Benjamin Millar
 
-* Master Research Project - Transformer Based MIDI Music Generation
+* Master Research Project: Transformer Based MIDI Music Generation
   * University of Adelaide
-  * Supervisor: Dr. Lingqiao Liu
+  * Supervisor: [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu)
 
 
 Skills
 ======
 * Python
   * Pytorch
+  * scikit-learn
+  * spaCy
 * MATLAB & Simulink
 * Java
 * Linux
 
 Ohter experience
 ======
-* Fall 2018: KNE434 Computer and Data Networks - Tutor
- * University of Tasmania
+* Fall 2018: Tutoring KNE434 Computer and Data Networks
+  * University of Tasmania
 
 
 <!---
