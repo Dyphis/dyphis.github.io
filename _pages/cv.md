@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E. in Communication Engineering, Shandong University of Science and Technology, 2019
-* B.E. (Hons) in Communication Engineering, University of Tasmania, 2019
-* MSc in Machine Learning, University of Adelaide, 2021
+* B.E. in Communication Engineering, Shandong University of Science and Technology, 2019 (88/100 ~ GPA: 6.1/7)
+* B.E. (Hons) in Communication Engineering, University of Tasmania, 2019 (GPA: 5/7)
+* MSc in Machine Learning, University of Adelaide, 2021 (GPA: 5.9/7)
 
 
 Research experience
@@ -31,7 +31,8 @@ Skills
 ======
 * Python
   * Pytorch
-  * scikit-learn
+  * Scikit-learn
+  * NLTK
   * spaCy
 * MATLAB & Simulink
 * Java
