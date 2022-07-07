@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+
+Here is the guidance of Markdown from this personal webpage template, it's helpful so I keep it here :)
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
