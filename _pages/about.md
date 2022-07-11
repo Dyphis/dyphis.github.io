@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+I earned my master degree at the University of Adelaide (UofA). I was fortunate to be supervised by [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu#my-research) and finished my master project in the final year. Before I came to Adelaide, I spent about three years of unforgettable life at the University of Tasmania (UTAS) doing my bachelor degree (honurs) under the supervision of Dr. Benjamin Millar. 
+
+My research interests are natural language processing (NLP), AI music, expainable AI.
+
+Originally, I am not a cs student (I am doing communication engineering). When I took a course called "Computational Intelligence", I was amazed by those powerful ML algorithms. Especially when I saw the accomplishment of AlphaGo, I made up my mind to also build a game AI by myself. With the guidance of Dr. Benjamin Millar, I spent a year to build a Mahjong AI.
+
+After I graduated from UTAS and obtained by honours degree, I came to UofA to continue studying AI. 
+
+<!---
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -44,3 +54,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
