@@ -18,7 +18,7 @@ Education
 
 Research experience
 ======
-* Bachelor Honours Research Project: Application of Computer Learning to an Automated Mahjong Player
+* Honours Research Project: Application of Computer Learning to an Automated Mahjong Player
   * University of Tasmania
   * Supervisor: Dr. Benjamin Millar
 
