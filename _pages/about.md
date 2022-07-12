@@ -12,11 +12,11 @@ I earned my master degree at the University of Adelaide (UOA). I was fortunate t
 
 My research interests are, natural language processing (NLP), AI music and expainable AI.
 
-Originally, I am not a cs student (I am doing communication engineering). When I took a course called "Computational Intelligence", I was amazed by those powerful ML algorithms. Especially when I saw the accomplishment of AlphaGo, I made up my mind to also build a game AI by myself. With the guidance of Dr. Benjamin Millar, I spent a year to build a Mahjong AI.
+Actually, I am not a cs student at the beginning (I am doing communication engineering at UTAS). When I took a course called "Computational Intelligence", I was amazed by those powerful ML algorithms. Especially when I saw the accomplishment of AlphaGo, I made up my mind to also build a game AI by myself. With the guidance of Dr. Benjamin Millar, I spent a year to build a Mahjong AI.
 
 After I graduated from UTAS and obtained my honours degree, I came to UOA to continue studying AI. I got professional training in machine learning (ML) and finished the interesting but challenging research project -- AI music generation under the supervision of Dr. Lingqiao Liu.
 
-As I dive deep into machine learning, I realize the importance of explainability and robustness of AI. My research goal is to build not only powerful, but also explainable AI.
+As I dive deep into machine learning, I gradually realize the importance of explainability and reliability of AI. My research goal is to build not only powerful, but also explainable AI.
 
 <!---
 
