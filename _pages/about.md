@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I earned my master's degree at the University of Adelaide (UOA). I was fortunate to be supervised by [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu#my-research) at UOA. Before I came to Adelaide, I spent about three years of unforgettable life at the University of Tasmania (UTAS) doing my bachelor's degree (honours) under the supervision of Dr Benjamin Millar. 
+I graduated from the University of Adelaide with a master's degree (UOA). I had the good fortune to have [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu#my-research) as my supervisor at UOA. I spent around three years of my life, studying for my bachelor's degree (honors) at the University of Tasmania (UTAS) under the direction of Dr. Benjamin Millar, before moving to Adelaide.
 
-My research interests are natural language processing (NLP), knowledge-based NLP, AI music and explainable AI.
+My research interests are natural language processing (NLP), knowledge-based NLP, AI music generation and explainable AI.
 
-Actually, I am not a cs student at the beginning (I am doing communication engineering at UTAS). When I took a course called "Computational Intelligence", I was amazed by those powerful ML algorithms. Especially when I saw the accomplishment of AlphaGo, I made up my mind to also build a game AI by myself. With the guidance of Dr Benjamin Millar, I spent a year building a Mahjong AI.
+Actually, I am not a cs student at the beginning (I am doing communication engineering at UTAS). When I took a course called "Computational Intelligence", I was amazed by those powerful ML algorithms. Especially when I saw the great accomplishment of AlphaGo, I made up my mind to also build a game AI by myself. Under the guidance of Dr Benjamin Millar, I spent a year building a Mahjong AI.
 
-After I graduated from UTAS and obtained my honours degree, I came to UOA to continue studying AI. I got professional training in machine learning (ML) and finished an  interesting but challenging research project -- AI music generation under the supervision of [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu#my-research).
+I came to UOA to continue my studies in AI after receiving my honours degree from UTAS. I got professional training in machine learning (ML) and finished an interesting but challenging research project -- AI music generation under the supervision of [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu#my-research).
 
 As I dive deep into machine learning, I gradually realize the importance of the explainability and reliability of AI. My research goal is to build not only powerful but also explainable AI.
 
