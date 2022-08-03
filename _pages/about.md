@@ -16,7 +16,7 @@ Actually, I am not a cs student at the beginning (I am doing communication engin
 
 I came to UOA to continue my studies in AI after receiving my honours degree from UTAS. I got professional training in machine learning (ML) and finished an interesting but challenging research project -- AI music generation under the supervision of [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu#my-research).
 
-As I dive deep into machine learning, I gradually realize the importance of the explainability and reliability of AI. My research goal is to build not only powerful but also explainable AI.
+As I dive deep into machine learning, I gradually realize the importance of the explainability and reliability of AI. My research goal is to build not only powerful but also interpretable AI.
 
 <!---
 
