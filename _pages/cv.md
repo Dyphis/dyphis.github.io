@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.E. in Communication Engineering, Shandong University of Science and Technology, 2019 (88/100 ~ GPA: 6.1/7)
-* B.E. (Hons) in Communication Engineering, University of Tasmania, 2019 (GPA: 5/7)
-* MSc in Machine Learning, University of Adelaide, 2021 (GPA: 5.9/7)
+* B.E. in Communication Engineering
+  * Shandong University of Science and Technology, 2019
+  * 88/100 ~ GPA: 6.1/7
+* B.E. (Hons) in Communication Engineering
+  * University of Tasmania, 2019 
+  * GPA: 5/7
+* MSc in Machine Learning
+  * University of Adelaide, 2021 
+  * GPA: 5.9/7
 
 
 Research experience
@@ -29,8 +35,8 @@ Research experience
 
 Internship
 ======
-* 12/2018 - 02/2019: Whale Cloud Computing Technology Co., Ltd.
-  * Software Engineer
+* 12/2018 - 02/2019: Software Engineer
+  * Whale Cloud Computing Technology Co., Ltd.
 
 
 Skills
