@@ -27,6 +27,12 @@ Research experience
   * Supervisor: [Dr. Lingqiao Liu](https://researchers.adelaide.edu.au/profile/lingqiao.liu)
 
 
+Internship
+======
+* 12/2018 - 02/2019: Whale Cloud Computing Technology Co., Ltd.
+ * Software Engineer
+
+
 Skills
 ======
 * Python
