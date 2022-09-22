@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.E. in Communication Engineering
+* B.E. in Telecommunication Engineering
   * Shandong University of Science and Technology, 2019
   * 88/100 ~ GPA: 6.1/7
-* B.E. (Hons) in Communication Engineering
+* B.E. (Hons) in Telecommunication Engineering
   * University of Tasmania, 2019 
   * GPA: 5/7
 * MSc in Machine Learning
