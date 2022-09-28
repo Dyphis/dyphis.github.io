@@ -17,9 +17,11 @@ Education
 * B.E. (Hons) in Telecommunication Engineering
   * University of Tasmania, 2019 
   * GPA: 5/7
+  * International student scholarship
 * MSc in Machine Learning
   * University of Adelaide, 2021 
   * GPA: 5.9/7
+  * International student scholarship
 
 
 Research experience
