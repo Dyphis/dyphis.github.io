@@ -18,8 +18,6 @@ I came to UOA to continue my studies in AI after receiving my honours degree fro
 
 As I dive deep into machine learning, I gradually realize the importance of the reliability of AI. My research goal is to build not only powerful but also interpretable AI.
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=kxdtvZkjEC6mkkOdVFG_svrVi9GbFdbB7lu4iWrWewU'></script>
-
 
 <!---
 
