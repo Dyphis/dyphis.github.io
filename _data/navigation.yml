@@ -19,7 +19,4 @@ main:
     url: /cv/
     
   - title: " "
-    url: /visitormap/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+    url: /markdown/
